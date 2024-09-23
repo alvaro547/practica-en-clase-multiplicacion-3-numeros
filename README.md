@@ -20,4 +20,5 @@ resultado = numero1 * numero2 * numero3
 print("La multiplicación de los tres números es:", resultado)
 
 
-![image](https://github.com/user-attachments/assets/abc66f98-d6e4-4253-a43c-a72877b4ef22)
+![image](https://github.com/user-attachments/assets/78252400-d4eb-4045-89b9-9f8a8b6cc88a)
+
